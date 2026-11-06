@@ -1,0 +1,7 @@
+build/
+*.o
+*.exe
+a.out
+test_prog
+*.csv
+.vscode/
