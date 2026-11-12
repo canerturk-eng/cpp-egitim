@@ -1,6 +1,6 @@
 # Gün 2 Sözlüğü | Çatıdaki Hava İstasyonu
 
-Bu sayfa, ikinci günün bütün kavramlarını tek bir hikâye üzerinden anlatan bir sözlüktür. Ders notunun ([README.md](README.md)) yerine geçmez, onun yanında durur. Bir kavramı ders notunda okuyup "tamam da bu ne demek şimdi" dediğiniz anda buraya gelin.
+Bu sayfa, ikinci günün bütün kavramlarını tek bir hikâye üzerinden anlatan bir sözlüktür. Metaforsuz, kısa teknik tanımlar isterseniz [TERIMLER.md](TERIMLER.md) sayfasına bakın. Ders notunun ([README.md](README.md)) yerine geçmez, onun yanında durur. Bir kavramı ders notunda okuyup "tamam da bu ne demek şimdi" dediğiniz anda buraya gelin.
 
 Her kavramın yanında üç şey bulacaksınız:
 
