@@ -27,7 +27,9 @@ itu_yonga_cpp_oop/
 │   ├── odev03_ring_buffer/
 │   ├── odev04_filtre/
 │   └── odev05_hamming/
-├── 03_gun2_oop_filtre/      İkinci gün ve final projesi
+├── 03_gun2_oop_filtre/      İkinci günün ders notu ve final projesi
+│   ├── 01_oop_temelleri/
+│   └── 02_filtre_kutuphanesi/
 └── teslimler/               Ödev teslimleriniz buraya gelecek
 ```
 
