@@ -24,6 +24,8 @@ Bugünün asıl derdi yeni bir sözdizimi öğrenmek değil, kodu nasıl **düze
 
 Sıkışırsak nereden kısaltacağımız sayfanın sonundaki [Eğitmen notu](#eğitmen-notu) kısmında yazıyor.
 
+> **Kavramlar karıştı mı?** Bugünün bütün terimleri, bir hava istasyonu hikâyesi üzerinden metaforlarla [SOZLUK.md](SOZLUK.md) sayfasında anlatılıyor.
+
 Bütün demo dosyaları tek başına derlenir:
 
 ```bash
